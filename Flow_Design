@@ -1,0 +1,7 @@
+The flow is triggered when HR submits a new onboarding request.
+
+Validation is performed before any approvals to reduce errors.
+
+Manager approval is mandatory for all requests. Contractor requests require additional HR approval.
+
+Once approved, stakeholders are notified and the outcome is logged to provide an audit trail.
