@@ -1,6 +1,6 @@
  Power Automate HR Onboarding – Business Case
 
-## Overview
+Overview
 This repository demonstrates a real-world HR onboarding automation built using Microsoft Power Automate.
 The automation focuses on improving efficiency, introducing structured approvals, and providing visibility and auditability into the onboarding process.
 
